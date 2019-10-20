@@ -10,5 +10,13 @@ namespace ConsoleAppDemo
         {
             Console.WriteLine("This is feature1");
         }
+
+        public int add()
+        {
+            int x = 1;
+            int y = 2;
+            int sum = x + y;
+            return sum;
+        }
     }
 }
