@@ -10,6 +10,7 @@ namespace ConsoleAppDemo
             Console.WriteLine("Changed after commit");
             Console.WriteLine("Code Edited to online");
             Console.WriteLine("Code Edited again online");
+            Console.WriteLine("Code changed in VS 2019");
         }
     }
 }
