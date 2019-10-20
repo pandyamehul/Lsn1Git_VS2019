@@ -11,12 +11,10 @@ namespace ConsoleAppDemo
             Console.WriteLine("This is feature1");
         }
 
-        public int add()
+        public int add(int x, int y)
         {
-            int x = 1;
-            int y = 2;
-            int sum = x + y;
-            return sum;
+            //method change after work done by someone other user online.
+            return x + y;            
         }
     }
 }
